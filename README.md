@@ -33,3 +33,24 @@ flowchart LR
 ```
 
 Consulta [el diseño y la ruta a AWS](docs/architecture.md). Los datos de la empresa son ficticios. Ningún comando del proyecto crea recursos AWS. Esta versión no incluye workflows de GitHub Actions.
+
+## Guía visual por carpeta
+
+Las siguientes imágenes son **simulaciones conceptuales, no capturas de AWS**. No acreditan una integración desplegada.
+
+### [Código y Lambda](src/README.md)
+
+![Simulación: Código y Lambda](docs/previews/src.svg)
+
+### [Base documental](data/README.md)
+
+![Simulación: Base documental](docs/previews/data.svg)
+
+### [Evaluación local](tests/README.md)
+
+![Simulación: Evaluación local](docs/previews/tests.svg)
+
+### [Arquitectura prevista](docs/README.md)
+
+![Simulación: Arquitectura prevista](docs/previews/docs.svg)
+

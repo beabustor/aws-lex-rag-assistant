@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+<title id="title">Simulación conceptual: Arquitectura prevista</title><desc id="desc">Maqueta propia inspirada en un editor conversacional. No es una captura de AWS. Lex → Lambda → recuperación → Connect. Transferencia real: pendiente de implementar</desc>
+<rect width="1000" height="520" fill="#f3f5f7"/><rect width="1000" height="62" fill="#182536"/>
+<g font-family="Arial, sans-serif"><text x="25" y="39" font-size="22" fill="white">Portfolio NLU · Arquitectura prevista</text>
+<rect x="20" y="80" width="960" height="52" rx="6" fill="#fff0c2"/><text x="38" y="112" font-size="19" fill="#654600">SIMULACIÓN · No es una captura de AWS · Sin despliegue real</text>
+<rect x="20" y="152" width="230" height="340" rx="8" fill="#223449"/><text x="38" y="190" fill="white" font-size="18">Diseño del bot</text>
+<g fill="#d9e6f2" font-size="15"><text x="38" y="230">ConsultarServicios</text><text x="38" y="268">ConsultarHorario</text><text x="38" y="306">ConsultarFAQ</text><text x="38" y="344">SolicitarSoporte</text><text x="38" y="382">HablarConAgente</text><text x="38" y="420">FallbackIntent</text></g>
+<rect x="270" y="152" width="710" height="340" rx="8" fill="white" stroke="#cad2dc"/><text x="295" y="194" font-size="24" fill="#182536">HablarConAgente</text>
+<text x="295" y="237" font-size="17" fill="#31465c">Lex → Lambda → recuperación → Connect</text><rect x="295" y="265" width="660" height="90" rx="6" fill="#edf4fb"/><text x="312" y="299" font-size="16" fill="#182536">Transferencia real: pendiente de implementar</text><text x="312" y="330" font-size="15" fill="#31465c">Datos ficticios · ejecución local</text>
+<text x="295" y="400" font-size="17" fill="#182536">AWS Lex V2: configuración y validación pendientes</text><text x="295" y="442" font-size="15" fill="#526477">Ilustración del diseño; no representa resultados del servicio.</text></g></svg>
